@@ -1,4 +1,4 @@
-Just start init for new game development without any anything
+This is a simple game engine for development 2D javascript canvas game 
 =====================
 
 For run and/or build this app, your need to install Node.js and npm.
